@@ -1,1 +1,2 @@
 # ThesisCode
+## This repository contains the implementation of machine learning models (Random Forest, XGBoost, and Artificial Neural Networks (ANN)) to predict hotel booking cancellations and no-shows. The code includes data preprocessing, hyperparameter tuning, and evaluation metrics, with methods like SMOTE and feature selection to handle class imbalance. Each model is optimized and analyzed for its performance on accuracy, macro F1, and weighted F1 scores.
